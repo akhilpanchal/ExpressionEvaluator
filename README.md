@@ -2,8 +2,7 @@
 Evaluates Post-fix Expression. Mainly focused on making the design extensible.
 
 Author:	Akhil Panchal
-Email: 	ahpancha@syr.edu
-Contact:(408)921-0371
+Email: 	akhilpanchal@gmail.com
 
 Number of files submitted: 2
 	PostfixCalculator.h
